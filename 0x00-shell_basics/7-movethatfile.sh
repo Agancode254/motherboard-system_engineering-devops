@@ -1,3 +1,4 @@
 #!/bin/bash
- touch betty
-echo mv -betty ./my_first_directory
+touch betty
+echo my_first_directory
+mv -i betty ~ my_first_directory
