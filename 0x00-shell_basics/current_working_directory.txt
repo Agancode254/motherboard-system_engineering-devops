@@ -1,2 +1,0 @@
-pwd
-echo current_working_directory

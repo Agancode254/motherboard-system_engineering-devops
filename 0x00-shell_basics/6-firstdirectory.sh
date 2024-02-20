@@ -1,2 +1,0 @@
-#!/bin/bash
-echo mkdir my_first_directory
