@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 working directory/
+chmod -R 753 working directory/
