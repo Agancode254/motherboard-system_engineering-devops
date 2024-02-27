@@ -1,0 +1,13 @@
+total 17
+drwxr-xr-x 1 Crypt Kali Poet 197121  0 Feb 27 11:05 .
+drwxr-xr-x 1 Crypt Kali Poet 197121  0 Feb 27 10:24 ..
+-rwxr-xr-x 1 Crypt Kali Poet 197121 32 Feb 27 10:27 0-hello_world.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 25 Feb 27 10:38 1-confused_smiley.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 28 Feb 27 10:41 2-hellofile.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 39 Feb 27 10:43 3-twofiles.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 39 Feb 27 10:46 4-lastlines.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 39 Feb 27 10:49 5-firstlines.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 36 Feb 27 10:54 6-third_line.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 73 Feb 27 11:03 7-file.sh
+-rwxr-xr-x 1 Crypt Kali Poet 197121 27 Feb 27 11:05 8-cwd_state.sh
+-rw-r--r-- 1 Crypt Kali Poet 197121  0 Feb 27 11:05 ls_cwd
