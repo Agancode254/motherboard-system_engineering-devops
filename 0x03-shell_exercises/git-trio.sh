@@ -1,3 +1,6 @@
 #!/bin/bash
-alias gitmom='git add . && git commit -m "motherboard" && git push'
+alias pep='git add .'
+alias klopp='git commit -m "motherboard"'
+alias mane='git push'
+
 
