@@ -1,4 +1,4 @@
 #!/bin/bash
-gcc -E CFILE.c > CFILE.o
+gcc -E "$CFILE.c" > CFILE.o
 
 
